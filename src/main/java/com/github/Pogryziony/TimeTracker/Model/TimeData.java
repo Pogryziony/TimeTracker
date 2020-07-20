@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-
+//definiujemy klasę modelu danych, która będzie encją JPA.
 @Entity
 public class TimeData {
 
